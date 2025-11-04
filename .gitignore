@@ -1,4 +1,93 @@
-.env
-.idea/*
+# ==========================
+# OS-generated files (recursive)
+# ==========================
 **/.DS_Store
-.DS_Store
+**/Thumbs.db
+**/desktop.ini
+**/Icon?
+**/ehthumbs.db
+
+# ==========================
+# IDE directories and configs (recursive)
+# ==========================
+# IntelliJ / PyCharm / WebStorm / Android Studio
+**/.idea/
+**/*.iml
+**/*.iws
+**/out/
+**/build/
+
+# Visual Studio Code
+**/.vscode/
+
+# Eclipse
+**/.project
+**/.classpath
+**/.settings/
+**/bin/
+
+# ==========================
+# Maven / Gradle
+# ==========================
+**/.mvn/
+**/.m2/
+**/target/
+**/.gradle/
+**/build/
+
+# ==========================
+# Node / JavaScript
+# ==========================
+**/node_modules/
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+
+# ==========================
+# Python / Virtual Environments
+# ==========================
+**/__pycache__/
+**/*.py[cod]
+**/*.pyo
+**/*.pyd
+**/*.pdb
+**/env/
+**/venv/
+**/.venv/
+**/ENV/
+**/.Python
+
+# ==========================
+# Logs, temporary, compiled files
+# ==========================
+**/*.log
+**/*.tmp
+**/*.bak
+**/*.swp
+**/*.swo
+**/*.class
+
+# ==========================
+# Cache, coverage, reports
+# ==========================
+**/.cache/
+**/coverage/
+**/reports/
+**/dist/
+**/.pytest_cache/
+**/.tox/
+**/.coverage
+**/.coverage.*
+
+# ==========================
+# System or miscellaneous files
+# ==========================
+**/.idea_modules/
+**/.gradle/
+**/.history/
+**/.scannerwork/
+**/.vscode/
+**/.DS_Store
+**/.settings/
+**/.env
+**/.env.*
